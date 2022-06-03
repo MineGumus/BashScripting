@@ -16,7 +16,7 @@ Problem Statement
 The purpose of this coding challenge is to write a program in bash script that write a Shell Script that adds two numbers if provided as the command Line Argument and if the two numbers are not entered throws an Error Message.
 
 Expected Output :
-1: When parameters are not passed
+1: When parameters are not passed:
 
 ./add-number.sh
 Where x and y are two nos for which I will print sum
